@@ -42,14 +42,3 @@
 - Automation using Selenium
 
 ---
-
-## 📈 Most Used Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakshika29&layout=compact&theme=radical" />
-</p>
-
-
----
-
-## ⚡ Fun Fact
-I build projects fast and focus on solving real problems 🚀
