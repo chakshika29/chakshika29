@@ -1,5 +1,11 @@
-<h1 align="center">Hi 👋, I'm Chakshika</h1>
-<h3 align="center">Full Stack Developer | Django | Building Real-World Web Apps</h3>
+<h1 align="center">Hi 👋, I'm Chakshika Pawar</h1>
+
+<p align="center">Full Stack Developer | Django | Building Real-World Web Apps
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Python+Django+Developer" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header"/>
+
 
 ---
 
