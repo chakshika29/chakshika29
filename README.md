@@ -1,9 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header"/>
 <h1 align="center">Hi 👋, I'm Chakshika Pawar</h1>
 
 <p align="center">Full Stack Developer | Django | Building Real-World Web Apps
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=120&section=header"/>
 
 ---
 
