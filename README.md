@@ -1,7 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:3498DB&height=200&section=header&text=Chakshika%20Pawar&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Python%20|%20Building%20Real-World%20Web%20Apps&descAlignY=60&descSize=18"/>
 
----
 
 ## 🚀 About Me
 - 💻 Full Stack Developer (Django + React)
@@ -9,7 +8,6 @@
 - 🎯 Currently improving in **system design & scalable architecture**
 - 📈 Goal: Land high-impact developer roles
 
----
 
 ## 🌐 Connect With Me
 <p align="left">
@@ -21,24 +19,9 @@
 </a>
 </p>
 
----
 
 ## 🛠️ Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,git,github,vscode" />
 </p>
 
----
-
-## 🚀 Featured Projects
-### 🔹 AI Resume Analyzer
-- Analyze resumes vs job descriptions
-- Match score + keyword suggestions
-- Built using NLP + Django
-
-### 🔹 Smart Job Tracker
-- Track job applications (Applied / Interview / Offer)
-- Clean dashboard UI
-- Automation using Selenium
-
----
