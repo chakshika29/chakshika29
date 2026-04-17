@@ -28,3 +28,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,git,github,vscode,mongodb,express,nodejs,tailwind,aws,SQL" />
 </p>
 
+----
+
+## 🧠 LeetCode Stat
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=chakshika&theme=dark)
