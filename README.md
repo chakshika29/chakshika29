@@ -32,4 +32,4 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/chakshika?theme=dark&font=baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/chakshika?theme=light&font=baloo&ext=contest)
