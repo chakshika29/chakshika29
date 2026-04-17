@@ -1,6 +1,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5DADE2,100:3498DB&height=200&section=header&text=Chakshika%20Pawar&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Python%20|%20Building%20Real-World%20Web%20Apps&descAlignY=60&descSize=18"/>
 
+I am a Full Stack Developer focused on building scalable, high-performance web applications with clean architecture and strong UX. Passionate about solving real-world problems and contributing to impactful products.
+
 ----
 
 ## 🚀 About Me
