@@ -30,5 +30,6 @@
 
 ----
 
-## 🧠 LeetCode Stat
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=chakshika&theme=dark)
+## 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/chakshika?theme=dark&font=baloo&ext=contest)
