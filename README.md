@@ -60,14 +60,13 @@
 ---
 
 ### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chakshikapawar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chakshikapawar&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chakshika29&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chakshika29&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakshikapawar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakshika29&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
 </div>
